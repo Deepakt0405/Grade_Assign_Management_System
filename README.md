@@ -3,9 +3,10 @@
 In this repository i have created UI for an Assignment Management System
 
 ## Additional Features
+* Designed and developed a user-friendly interface for a grade assignment management system, enhancing the efficiency of grade tracking and 
+  input processes.
 * Have separate panel for both faculty and student
 * Faculty can easily assign grades to students with there report
-* Reduce time
 * Student can see area to improve with suggestion
 
 ## Screenshots
